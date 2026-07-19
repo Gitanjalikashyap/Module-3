@@ -26,7 +26,7 @@ Used with CSS and JavaScript
 </body>
 </html>
 
-# Main Parts
+ Main Parts
 
 DOCTYPE
 html
