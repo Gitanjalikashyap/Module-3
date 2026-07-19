@@ -26,13 +26,7 @@ Used with CSS and JavaScript
 </body>
 </html>
 
- Main Parts
-
-DOCTYPE
-html
-head
-title
-body
+ 
 # 3. Basic HTML Tags
 Headings
 <h1>Main Heading</h1>
